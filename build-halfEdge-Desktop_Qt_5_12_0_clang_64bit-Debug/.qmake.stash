@@ -1,0 +1,44 @@
+QMAKE_MAC_SDK.macosx.Path = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk
+QMAKE_MAC_SDK.macosx.PlatformPath = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform
+QMAKE_MAC_SDK.macosx.SDKVersion = 11.1
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_CC = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_CXX = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_FIX_RPATH = \
+    /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/install_name_tool \
+    -id
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_AR = \
+    /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar \
+    cq
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_RANLIB = \
+    /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib \
+    -s
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_LINK = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_LINK_SHLIB = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_ACTOOL = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/usr/bin/actool
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_LINK_C = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+QMAKE_MAC_SDK.macx-clang.macosx.QMAKE_LINK_C_SHLIB = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang
+QMAKE_CXX.INCDIRS = \
+    /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1 \
+    /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include \
+    /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/include \
+    /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include
+QMAKE_CXX.LIBDIRS = /Users/annajiang/Downloads/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk/usr/lib
+QMAKE_CXX.QT_COMPILER_STDCXX = 199711L
+QMAKE_CXX.QMAKE_APPLE_CC = 6000
+QMAKE_CXX.QMAKE_APPLE_CLANG_MAJOR_VERSION = 12
+QMAKE_CXX.QMAKE_APPLE_CLANG_MINOR_VERSION = 0
+QMAKE_CXX.QMAKE_APPLE_CLANG_PATCH_VERSION = 0
+QMAKE_CXX.QMAKE_GCC_MAJOR_VERSION = 4
+QMAKE_CXX.QMAKE_GCC_MINOR_VERSION = 2
+QMAKE_CXX.QMAKE_GCC_PATCH_VERSION = 1
+QMAKE_CXX.COMPILER_MACROS = \
+    QT_COMPILER_STDCXX \
+    QMAKE_APPLE_CC \
+    QMAKE_APPLE_CLANG_MAJOR_VERSION \
+    QMAKE_APPLE_CLANG_MINOR_VERSION \
+    QMAKE_APPLE_CLANG_PATCH_VERSION \
+    QMAKE_GCC_MAJOR_VERSION \
+    QMAKE_GCC_MINOR_VERSION \
+    QMAKE_GCC_PATCH_VERSION
+QMAKE_XCODE_DEVELOPER_PATH = /Users/annajiang/Downloads/Xcode.app/Contents/Developer
+QMAKE_XCODE_VERSION = 12.4
